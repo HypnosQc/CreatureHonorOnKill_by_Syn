@@ -18,9 +18,6 @@ CreatureEntryID5 = 12344
 You can add more if u want just do like this
 ETC...
 + CreatureEntryID6 = 12344
-+ CreatureEntryID7 = 12344
-+ CreatureEntryID8 = 12344
-+ CreatureEntryID9 = 12344
 
 
 
