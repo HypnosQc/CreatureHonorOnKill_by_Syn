@@ -4,6 +4,7 @@
 
 	--	Script Name:			Creature Honor On Kill
 	--	Script Description:		Adds or removes honor points from a player when they kill a creature.
+	--      Script local HonorPoints = -20  to remove 20 points
 	
 -----------------------------------------------------------------------------------|
 ---------------------------------|Configuration|-----------------------------------|
